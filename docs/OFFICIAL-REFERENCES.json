@@ -1,0 +1,38 @@
+[
+  [
+    "Docker documentation",
+    "https://docs.docker.com/"
+  ],
+  [
+    "Docker Engine",
+    "https://docs.docker.com/engine/"
+  ],
+  [
+    "Docker build",
+    "https://docs.docker.com/build/"
+  ],
+  [
+    "Compose",
+    "https://docs.docker.com/compose/"
+  ],
+  [
+    "CLI reference",
+    "https://docs.docker.com/reference/cli/docker/"
+  ],
+  [
+    "Dockerfile reference",
+    "https://docs.docker.com/reference/dockerfile/"
+  ],
+  [
+    "Compose specification",
+    "https://docs.docker.com/reference/compose-file/"
+  ],
+  [
+    "Swarm",
+    "https://docs.docker.com/engine/swarm/"
+  ],
+  [
+    "Security",
+    "https://docs.docker.com/engine/security/"
+  ]
+]

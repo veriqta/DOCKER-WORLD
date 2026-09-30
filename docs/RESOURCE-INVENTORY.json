@@ -1,0 +1,7 @@
+{
+  "Engine-Objects": "Container|Image|Network|Volume|Plugin|Exec-Session|Context",
+  "Compose-Model": "Project|Service|Network|Volume|Config|Secret|Profile|Build-Definition|Develop-Definition",
+  "Swarm-Objects": "Swarm|Node|Service|Task|Stack|Secret|Config",
+  "Build-Objects": "Builder|Build-Context|Build-Target|Cache|Build-Result|Build-Attestation|Bake-Target",
+  "Registry-Artifacts": "Repository|Tag|Manifest|Image-Index|Blob|SBOM|Provenance"
+}
